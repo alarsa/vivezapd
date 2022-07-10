@@ -1,0 +1,135 @@
+[
+    {
+        "keywords":  [
+            "Hola",
+            "hola",
+            "hola!",
+            "ola",
+            "quiero informes",
+            "Información",
+            "Informes",
+            "información",
+            "informes",
+            "necesito informes",
+            "quiero información",
+            "quiero informacion",
+            "me da informes por favor",
+            "Necesito Informes",
+            "necesito informes",
+            "buen día",
+            "buen dia",
+            "Buen día",
+            "ole",
+            "inicio",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "venden a crédito",
+            "quisiera saber si venden",
+            "necesito saber"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "S",
+            "s"
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "U",
+            "u",
+            "Ubicación",
+            "ubicación",
+            "ubi",
+            "Ubi"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "A",
+            "a",
+            "Agendar cita",
+            "agendar cita",
+            "Agendar Cita",
+            "Agendar",
+            "agendar"
+                    ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+           "f",  
+           "F",
+            "Fisio",
+            "Fisiologia",
+            "fisio",
+            "fisiologia",
+            "Fisioterapia",
+            "fisioterapia"
+            
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords":  [
+            "Psicologia",
+            "Psicología",
+            "p",
+             "psicología",
+            "psicologia"
+        ],
+        "key": "STEP_2_4"
+    },
+    {
+        "keywords":  [
+            "M",
+            "m"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "muchas gracias",
+            "ok",
+            "gracias",
+            "vale gracias",
+            "Gracias",
+            "hasta luego",
+            "Hasta luego",
+            "Bye",
+            "bye"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "H",
+            "h"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "R",
+            "r"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "C"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":  [
+            "audio"
+        ],
+        "key": "STEP_8"
+    }
+]

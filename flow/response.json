@@ -1,0 +1,169 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "No he comprendido. Puedes repetir tu solicitud por favor \n", 
+            "Siempre puedes regresar al menú escribiendo *M*. \n"
+          
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "El flujo ha finalizado Sambot15.3.1 \n"
+     
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+          "Hola! 🤖✌️ Bienvenido a Viveza. Soy un asistente virtual que te apoyará a ahorrar tiempo en tus consultas. \n\n",
+            "Por favor escribe una *letra* de las opciones disponibles. \n\n",
+            "*S* 📋 Servicios y Costos\n",
+            "*U* 📍 Ubicación\n",
+            "*A* 📅 Agendar Cita\n",
+            "*R* 📩 Reagendar o Cancelar Cita\n",
+            "*M* 🔵 Menú Inicial\n",
+            "*H* 🙋‍ Hablar con una persona\n"
+            ],
+        "media":"https://i.imgur.com/iWJDnJT.png",
+        "trigger":null
+    },
+    "STEP_2":{
+        "replyMessage":[
+             "Clinica Viveza cuenta con 3 especialidades disponibles: \n",
+            "Por favor escribe una *letra* que corresponde a la especialidad de tu interes:\n\n",
+            "*F* ▶️ Fisioterapia\n",
+            "*P* ▶️ Psicología\n",
+            "*N* ▶️ Nutrición \n\n",
+            "*A* 🗓 Agendar Cita\n",
+            "*H* 🙋‍♀️ Hablar con una persona\n",
+            "*M* 🔵 Menú Inicial\n"
+            
+        ],
+        "media":"https://i.imgur.com/iWJDnJT.png",
+        "trigger":null
+    },
+    "STEP_2_1":{
+         "replyMessage":[
+            "Nos ubicamos en Hidalgo 57 esquina con Escobedo, Iguala Gro. \n",
+            "https://goo.gl/maps/Wcia3jZj6DxXUtjZ9 \n",
+            "*S* 📋 Servicios y Costos\n",
+            "*A* 📅 Agendar Cita\n",
+            "*M* 🔵 Menú Inicial\n",
+            "*H* 🙋‍ Hablar con una persona\n"
+
+        ],
+        "media":"https://i.imgur.com/fmAUz8S.png", 
+        "trigger":null  
+    },
+    "STEP_2_2":{
+        "replyMessage":[
+           "Para agendar una cita en linea favor de dar click en la especialidad deseada:\n\n",
+            "*▶️Fisioterapia*\n",
+            "https://viveza.setmore.com/fisio\n\n",
+            "*▶️Psicología*\n",
+            "https://viveza.setmore.com/psicologia\n\n",
+            "*▶️Nutrición*\n", 
+            "https://viveza.setmore.com/nutricion\n\n",
+            "*A* 📅 Agendar Cita\n",
+            "*M* 🔵 Menú Inicial\n",
+            "*H* 🙋‍ Hablar con una persona\n" 
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3":{
+        "replyMessage":[
+            "*Fisioterapia*\n\n",
+             "Rehabilitación física para lesiones musculo esqueléticas y pacientes post operatorios.\n",
+            "Contamos con el equipos especializados para cada padecimiento. \n\n",
+            "La duración de la terapia es de 1 hora aproximadamente.\n",
+            "El costo de la consulta es de $400.\n",
+            "El horario de atención es de lunes a viernes de 10:00 am a 7:00 pm. \n\n",
+            "Para agendar su cita en linea favor de acceder al siguiente link: https://viveza.setmore.com/fisio \n\n",
+            "*U* 📍 Ubicación \n",
+            "*R* 📩 Reagendar o Cancelar Cita\n",
+            "*H* 🙋‍ Hablar con una persona\n",
+            "*M* 🔵 Menú Inicial\n"
+        ],
+        "media":"https://i.imgur.com/09Zm85Y.jpeg",
+        "trigger":null
+    },
+    "STEP_2_4":{
+        "replyMessage":[
+            "*Psicología*\n\n",
+            "Terapia psicológica basada en evidencia científica para niños jovenes y adultos. \n\n",
+            "Atención psicológica especializada para la violencia familiar, sexual, y de género.\n",
+            "Conferencias, cursos y talleres para profesionales de la salud y áreas educativas. \n\n",
+            "Para agendar tu cita en linea favor accede al siguiente link https://viveza.setmore.com/psicologia \n\n",
+            "*U* 📍 Ubicación \n",
+            "*R* 📩 Reagendar o Cancelar Cita\n",
+            "*H* 🙋‍ Hablar con una persona\n",
+            "*M* 🔵 Menú Inicial\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+             "*Menú Inicial*\n\n",
+            "Por favor *escribe* la letra de las opciones disponibles. \n\n",
+            "*S* 📋 Servicios y costos\n",
+            "*U* 📍  Ubicación\n",
+            "*A* 📅  Agendar Cita\n",
+            "*R* 📩 Reagendar o Cancelar Cita\n",
+            "*H* 🙋‍ Hablar con una persona\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+      "STEP_4":{
+        "replyMessage":[
+            "Estamos para servirte. Gracias por tu preferencia! 🙂 \n",
+            "*M* 🔵 Regresar al Menú Inicial\n"
+          
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "Sigue el siguiente link para enviar una SMS automático https://bit.ly/3yOxg4O \n",
+            "En unos momentos alguien de nuestro personal atenderá tu solicitud 🙂 \n\n",
+            "*M* 🔵 Regresar al Menú Inicial\n",
+            "*A* 📅 Agendar Cita\n"  
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "Busca el link que te llegó por correo electronico al registrar tu cita. Prueba filtrando por Viveza. \n",
+            "Dentro del correo del confirmación se encuentran dos links para poder realizarlo en automático 🙂 \n\n",
+            "Si no cuentas con las opciones disponibles pulsa *H* para enviar una alerta y alguien se comunicará contigo a la brevedad \n\n",
+            "*A* 📅 Agendar Cita\n",
+            "*R* 📩 Reagendar o Cancelar Cita\n",
+            "*H* 🙋‍ Hablar con una persona\n",
+            "*M* 🔵 Menú Inicial\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "texto disponible \n"  
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_8":{
+        "replyMessage":[
+            "Esto es una nota de voz \n"
+        ],
+        "media":"nota-de-voz.mp3",
+        "trigger":null
+    }
+}
+
